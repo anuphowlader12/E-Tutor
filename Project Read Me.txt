@@ -4,7 +4,7 @@ To set up your project to your localhost follow the steps:
 ===========================================================
 1. install xampp on your pc to c drive. Dont run xampp app now!!!
 2. rename your xampp to xampp123
-3. download the project xampp folder and copy it to the same directory c://
+3. download the project & Create xampp folder and copy the project xampp folder then it is copy to the same directory c://
 4. now run your xampp app and start apache and mysql
 5. your project is now all set
 ======================================================
