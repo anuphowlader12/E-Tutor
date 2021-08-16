@@ -1,0 +1,3 @@
+Create a Folder xampp then Copy All File in xampp folder. 
+Then Main xampp folder rename xampp123 and copy ta new xampp folder in C drive
+Then Read the project read me 
