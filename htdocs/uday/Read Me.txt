@@ -1,0 +1,16 @@
+E Tutor Project Set Up procedure:
+========================================================== 
+To set up your project to your localhost follow the steps:
+===========================================================
+1. install xampp on your pc to c drive. Dont run xampp app now!!!
+2. rename your xampp to xampp123
+3. download the project xampp folder and copy it to the same directory c://
+4. now run your xampp app and start apache and mysql
+5. your project is now all set
+======================================================
+ Now Run your project:
+1. go to any browser 
+2. typle localhost/uday
+3. Now explore the website project
+======================================
+Have a good day!!!

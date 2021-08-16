@@ -1,0 +1,11 @@
+admin dashboard, admin login, 
+
+name
+id
+email
+phone
+school
+area
+class
+group
+for student
